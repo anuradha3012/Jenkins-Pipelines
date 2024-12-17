@@ -1,7 +1,7 @@
 // You need to add below entery in  /etc/sudoers file
 //jenkins ALL=(ALL) NOPASSWD: ALL
 //usermod -a -G root jenkins
-//we are learning jenkins pipeline.......
+//we are learning jenkins pipeline..........
 pipeline {
 agent any
 
